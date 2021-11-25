@@ -36,3 +36,6 @@
 - Functions and conditions in the code
 
 # Starting with Scratch!
+
+# Abstraction
+Abstraction is one of the four cornerstones of Computer Science. It involves filtering out – essentially, ignoring - the characteristics that we don't need in order to concentrate on those that we do.

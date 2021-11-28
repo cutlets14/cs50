@@ -21,3 +21,11 @@
 # Return values, variables
 - Something a function passes back after executing the code within. Often, what is returned is stored in a variable.
 - C is a lot more pedantic than Scratch so you have to assign things yourself.
+
+# Header files
+- Give access to more functions than one might automatically get when using standard C.
+
+# Help
+- Use "help50" to debug issues and translate arcane/cryptic computer messages to being more user-friendly; usage: "help50 make hello"
+- Use "style50" to get feedback on style-based items; usage: "style50 hello.c"
+- Use "check50" to check correctness of code against some automated tests written for a given problem set. Command always supplied for each problem set/lab.

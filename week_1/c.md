@@ -52,6 +52,7 @@
 # printf - data codes to tell C to be precise about printing things
 - %c - print single character
 - %f - print floating point number
+    - %.10f - print 10 significant digits after the decimal
 - %i - print integer
 - %s - print string
 - %li - print long integer
@@ -61,3 +62,14 @@
 
 # Syntactic sugar
 - counter = counter + 1; counter += 1; counter++
+
+# Prototype
+- A hint for the compiler that there will exist a function with this name.
+- More formally, it is a declaration in the code that instructs the compiler about the data type of the function, arguments, and parameter list.
+
+# Do-while loop
+- Do something once and then check for a condition.
+- The opposite of a while loop which checks for a condition first before doing something once.
+
+# Integer Overflow
+- A type of arithmetic overflow error when the result of an integer operation does not fit within the allocated memory space.

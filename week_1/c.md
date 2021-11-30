@@ -29,3 +29,35 @@
 - Use "help50" to debug issues and translate arcane/cryptic computer messages to being more user-friendly; usage: "help50 make hello"
 - Use "style50" to get feedback on style-based items; usage: "style50 hello.c"
 - Use "check50" to check correctness of code against some automated tests written for a given problem set. Command always supplied for each problem set/lab.
+
+# Helpful CLI commands/directories
+- cp
+- mkdir
+- mv
+- . - current directory
+- .. - parent directory
+
+# Common data types - only use a specific finite number of bits
+- bool
+- char - quote them using single quotes
+- double
+- float
+- int - 32-bit only
+- long
+- string
+
+# Useful functions in cs50.h
+- get_char, get_int, get_float etc.
+
+# printf - data codes to tell C to be precise about printing things
+- %c - print single character
+- %f - print floating point number
+- %i - print integer
+- %s - print string
+- %li - print long integer
+
+# Cast numbers
+- Syntax: int x; (float) x -> casts an integer to a floating point number
+
+# Syntactic sugar
+- counter = counter + 1; counter += 1; counter++
